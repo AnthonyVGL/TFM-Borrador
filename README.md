@@ -1,1 +1,1 @@
-En el archivo TFM-Borrador se encuentra el desarrollo del proyecto en google colab con el lenguje de programación Python, la información de los datasets usados solo serán brindados vía solicitud.
+En el archivo TFM se encuentra el desarrollo del proyecto por medio de google colab en el lenguaje de programación Python, la información de los datasets usados solo serán brindados vía solicitud.
